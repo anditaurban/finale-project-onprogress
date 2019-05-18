@@ -1,6 +1,12 @@
+.btn{
+	margin-right: 10px;
+}
+.jumbotron{
+	height: 750px;
+}
 .box{
-	margin-top: 50px;
-	height: 429px;
+	margin-top: 100px;
+	height: 450px;
 	background-color: hsl(0, 100%, 50%);
 	opacity:50%;
 	border-radius: 10px; 
@@ -8,4 +14,13 @@
 .box img{
 	margin-top:-50px;
 	border: 10px solid red;
+}
+.box h1{
+	font-family: 'Baloo Bhai', cursive;
+	font-style: italic;
+	color: black;
+}
+footer{
+	background-color: red;
+	margin-top: -50px;
 }
