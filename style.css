@@ -1,0 +1,11 @@
+.box{
+	margin-top: 50px;
+	height: 429px;
+	background-color: hsl(0, 100%, 50%);
+	opacity:50%;
+	border-radius: 10px; 
+}
+.box img{
+	margin-top:-50px;
+	border: 10px solid red;
+}
